@@ -1,0 +1,19 @@
+{
+  "name": "@impomales/npm_tutorial",
+  "version": "1.0.0",
+  "description": "npm tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impomales/npmTutorial.git"
+  },
+  "author": "Isaias Pomales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impomales/npmTutorial/issues"
+  },
+  "homepage": "https://github.com/impomales/npmTutorial#readme"
+}
