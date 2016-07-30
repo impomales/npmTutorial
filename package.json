@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/impomales/npmTutorial/issues"
   },
-  "homepage": "https://github.com/impomales/npmTutorial#readme"
+  "homepage": "https://github.com/impomales/npmTutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
